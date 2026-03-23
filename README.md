@@ -69,10 +69,10 @@ Quimera-OS tiene como obejtivo proveer un sistema base minimo que cuenta con lo 
 
 ## Estructura del Proyecto
 
-- `dotfiles/`: system configuration
-- `scripts/`: installation scripts
-- `iso/`: custom ISO builder
-- `docs/`: documentation
+- `dotfiles/`: configuración del sistema
+- `scripts/`: scripts de instalación
+- `iso/`: construccion de la iso personalizada
+- `docs/`: documentación
 
 ## Estado 
 

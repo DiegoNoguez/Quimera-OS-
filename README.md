@@ -1,4 +1,4 @@
-# Quimera-OS
+# Hipogrifo-OS
 
 Minimalist Arch-based Linux distribution focused on:
 
@@ -10,7 +10,7 @@ Minimalist Arch-based Linux distribution focused on:
 
 ## Philosophy
 
-Quimera-OS aims to provide a **minimal base system** with:
+Hipogrifo-OS aims to provide a **minimal base system** with:
 
 - Hyprland (Wayland compositor)
 - Modular installation profiles
@@ -32,6 +32,27 @@ Quimera-OS aims to provide a **minimal base system** with:
 - `iso/`: custom ISO builder
 - `docs/`: documentation
 
+
+## Machine Learning
+
+The ML profile includes:
+
+- Python ecosystem
+- JupyterLab
+- Data science libraries
+
+GPU acceleration is optional and configurable.
+
+
+## Profiles available for installation
+
+QuimeraOS uses a modular installation system:
+
+- core: minimal system
+- dev: web development environment
+- pentest: security tools
+- ml: machine learning environment
+
 ## Status
 
 In development
@@ -39,7 +60,7 @@ In development
 
 ## Spanish 
 
-*Quimera-OS* 
+*Hipogrifo-OS* 
 
 Es una distribución minimalista  y modular que toma como base **Arch Linux** enfocada a lo siguiente:
 
@@ -51,7 +72,7 @@ Es una distribución minimalista  y modular que toma como base **Arch Linux** en
 
 ## Filosofía 
 
-Quimera-OS tiene como obejtivo proveer un sistema base minimo que cuenta con lo siguiente 
+Hipogrifo-OS tiene como obejtivo proveer un sistema base minimo que cuenta con lo siguiente 
 
 - Hpyrland (Wayland compositor)
 - Instalación modular de acuerdo a perfiles 
@@ -77,3 +98,7 @@ Quimera-OS tiene como obejtivo proveer un sistema base minimo que cuenta con lo 
 ## Estado 
 
 En desarrollo..
+
+#### NOTA / NOTE
+
+The documentation is 
